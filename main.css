@@ -1,0 +1,167 @@
+
+.MainContent{
+    position: absolute; background: linear-gradient(145deg, #1A237E, #0D47A1);
+    width: 100%; height: 120%;
+    top: 40%;
+}
+.MC_desc{
+    top: 44%; left: 50%; white-space: nowrap;
+}
+#clock{
+    position: absolute;
+    top: 25%; left: 50%; transform: translate(-50%, -50%);
+}
+.MC_desc2{
+    top: 85%; left: 50%; white-space: nowrap;
+}
+#patient{
+    position: absolute;
+    top: 70%; left: 50%; transform: translate(-50%, -50%);
+}
+.Second_Content{
+    background: linear-gradient(145deg, #43229C, #311B92);
+    position: absolute;
+    width: 100%; height: 120%;
+    top: 160%;
+}
+
+.SC_desc{
+    top: 70%; left: 30%;
+}
+.SC_desc2{
+    top: 70%; left: 80%; white-space: nowrap;
+}
+.begging{
+    position: absolute;
+    top: 30%; left: 30%; transform: translate(-50%, 0);
+}
+.money{
+    position: absolute;
+    top: 30%; left: 80%; transform: translate(-50%, 0);
+}
+.Third_Content{
+    position: absolute; background:#4A148C;
+    width: 100%; height: 120%;
+    top: 260%;
+}
+.Box{
+    background: linear-gradient(to right, #FFEE58, #66BB6A);
+    position: absolute; transform: translate(-50%, -50%);
+    width: 20vw; height: 25vw; border-radius: 1vw; border: none;
+}
+#Learn{
+    top: 35%; left: 50%;
+}
+#Learn_SubInfo{
+    top: 35%; left: 25%;
+}
+#Learn_SubContext{
+    top: 35%; left: 75%;
+}
+
+#Use{
+    top: 80%; left: 50%;
+}
+#Use_SubInfo{
+    top: 80%; left: 25%;
+}
+#Use_SubContent{
+    top: 80%; left: 75%;
+}
+
+.B_P{
+    position: absolute;
+    top: 50%; left: 50%;
+}
+.Fourth_Content{
+    position: absolute;
+    width: 100%; height: 120%; background-color: rgba(255, 255, 255, 0.15);
+    top: 380%;
+}
+
+.boxes{
+    background: linear-gradient(135deg, #424242 0%, #212121 100%);
+    position: absolute; transform: translate(-50%, -50%);
+    width: 20vw; height: 25vw; border-radius: 1vw; border: none;
+}
+
+#Input{
+    left: 15%; top: 20%;
+}
+#process{
+    left: 85%; top: 20%;
+}
+#storage{
+    top: 30%; left: 50%;
+}
+#output{
+    top: 80%; left: 50%;
+}
+#energy{
+    top: 60%; left: 15%;
+}
+#i_p_s{
+    position: absolute; transform: translate(-50%, -50%);
+    top: 25%; left: 50%; z-index: -1;
+}
+#i_e{
+    position: absolute; transform: translate(-50%, -50%);
+    top: 38%; left: 13%; z-index: -1;
+}
+#i_p{
+    position: absolute; transform: translate(-50%, -50%);
+    top: 13%; left: 50%; z-index: -1;
+}
+#e_n{
+    position: absolute; transform: translate(-50%, -50%);
+    top: 61.5%; left: 52%; z-index: -1;
+}
+#s_o{
+    position: absolute; transform: translate(-50%, -50%);
+    left: 48.5%; top: 53%; z-index: -1;
+}
+#e_p{
+    position: absolute; transform: translate(-50%, -50%);
+    left: 85.08%; top: 39%; z-index: -1;
+}
+
+.Fifth_Content{
+    position: absolute; top: 500%;
+    width: 100%; height: 120%;
+    background: linear-gradient(135deg, #0F2027 0%, #203A43 50%, #2C5364 100%);
+}
+.credits{
+    top: 10%; left: 10%;
+}
+.tuoitre{
+    position: absolute;
+    top: 15%; left: 10%;
+}
+.Wikibooks{
+    position: absolute;
+    top: 18%; left: 10%;
+}
+.FPTAI{
+    position: absolute;
+    left: 10%; top: 21%;
+}
+.wikipedia{
+    position: absolute;
+    top: 24%; left: 10%;
+}
+.ThanhNien{
+    position: absolute;
+    left: 10%; top :27%;
+}
+.VOV{
+    position: absolute;
+    left: 10%; top: 30%;
+}
+.ODS{
+    position: absolute;
+    left: 10%; top: 33%;
+}
+.text{
+    position: absolute;
+    left: 40%; top: 36%;
+}
