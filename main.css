@@ -82,7 +82,7 @@
 .boxes{
     background: linear-gradient(135deg, #424242 0%, #212121 100%);
     position: absolute; transform: translate(-50%, -50%);
-    width: 20vw; height: 25vw; border-radius: 1vw; border: none;
+    width: 15vw; height: 35vw; border-radius: 1vw; border: none;
 }
 
 #Input{
@@ -100,30 +100,7 @@
 #energy{
     top: 60%; left: 15%;
 }
-#i_p_s{
-    position: absolute; transform: translate(-50%, -50%);
-    top: 25%; left: 50%; z-index: -1;
-}
-#i_e{
-    position: absolute; transform: translate(-50%, -50%);
-    top: 38%; left: 13%; z-index: -1;
-}
-#i_p{
-    position: absolute; transform: translate(-50%, -50%);
-    top: 13%; left: 50%; z-index: -1;
-}
-#e_n{
-    position: absolute; transform: translate(-50%, -50%);
-    top: 61.5%; left: 52%; z-index: -1;
-}
-#s_o{
-    position: absolute; transform: translate(-50%, -50%);
-    left: 48.5%; top: 53%; z-index: -1;
-}
-#e_p{
-    position: absolute; transform: translate(-50%, -50%);
-    left: 85.08%; top: 39%; z-index: -1;
-}
+
 
 .Fifth_Content{
     position: absolute; top: 500%;
