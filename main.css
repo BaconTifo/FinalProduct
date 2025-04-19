@@ -82,7 +82,7 @@
 .boxes{
     background: linear-gradient(135deg, #424242 0%, #212121 100%);
     position: absolute; transform: translate(-50%, -50%);
-    width: 15vw; height: 35vw; border-radius: 1vw; border: none;
+    width: 15vw; height: 30vw; border-radius: 1vw; border: none;
 }
 
 #Input{
